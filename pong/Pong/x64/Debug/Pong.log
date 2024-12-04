@@ -1,0 +1,3 @@
+﻿  Pong.cpp
+C:\Users\gbele931\Documents\GitHub\cplusplus\Pong\Pong\Pong.cpp(116,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pong.vcxproj -> C:\Users\gbele931\Documents\GitHub\cplusplus\Pong\x64\Debug\Pong.exe
