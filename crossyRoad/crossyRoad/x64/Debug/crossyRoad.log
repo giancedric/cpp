@@ -1,0 +1,3 @@
+﻿  crossyRoad.cpp
+C:\Users\gbele931\Documents\GitHub\cplusplus\crossyRoad\crossyRoad\crossyRoad.cpp(162,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  crossyRoad.vcxproj -> C:\Users\gbele931\Documents\GitHub\cplusplus\crossyRoad\x64\Debug\crossyRoad.exe
